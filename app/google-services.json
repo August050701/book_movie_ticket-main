@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111528986831",
+    "project_id": "bookmovieticket-9067e",
+    "storage_bucket": "bookmovieticket-9067e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111528986831:android:35b52b75eb915faf750fba",
+        "android_client_info": {
+          "package_name": "com.example.bookmovieticket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXqw1Q0YCm6k-UqLirsAYmp2lnOniFUj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
